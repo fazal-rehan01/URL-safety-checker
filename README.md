@@ -18,4 +18,5 @@ The **Advanced URL Safety Checker** is designed to analyze URLs for potential ph
 ## Installation and Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[Your GitHub Username]/advanced-url-safety-checker.git
+   git clone  https://github.com/fazal-rehan01/My-phishing-detector.git
+   
