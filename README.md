@@ -1,7 +1,7 @@
-# Advanced URL Safety Checker
+# URL Safety Checker
 
 ## Overview
-The **Advanced URL Safety Checker** is designed to analyze URLs for potential phishing indicators. Unlike basic keyword matchers, this tool employs heuristic analysis, including protocol verification, keyword boundary detection, and IP address identification, to provide a more accurate risk assessment.
+The **URL Safety Checker** is designed to analyze URLs for potential phishing indicators. Unlike basic keyword matchers, this tool employs heuristic analysis, including protocol verification, keyword boundary detection, and IP address identification, to provide a more accurate risk assessment.
 
 ## Features
 - **Protocol Verification**: Flags URLs using insecure HTTP protocols.
@@ -17,6 +17,6 @@ The **Advanced URL Safety Checker** is designed to analyze URLs for potential ph
 
 ## Installation and Usage
 1. Clone the repository:
-   ```bash
+   bash:
    git clone  https://github.com/fazal-rehan01/My-phishing-detector.git
    
